@@ -1,3 +1,6 @@
+<img width="2879" height="1525" alt="Screenshot 2026-05-09 165123" src="https://github.com/user-attachments/assets/74017de7-0700-4a4d-9620-0a0e065fd7cc" />
+
+
 # Medical Imaging and Lab Report Explainer AI (Local Version)
 
 A secure, offline AI application that analyzes medical reports (PDF/Text) and generates clear explanations tailored for both **Patients** (simplified language) and **Clinicians** (technical summary).
